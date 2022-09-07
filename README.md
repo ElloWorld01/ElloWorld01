@@ -1,12 +1,7 @@
 <div align="center">
 
-# Hi there 👋
-## I do projects with a lot of different languages, really a lot...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elloworld01&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-### I'm just kidding.
-
-<details>
-  <summary>⚡ Discover the other technologies I use</summary>
+# Hello 👋 
+## Welcome to my house! Enter freely. Go safely, and leave something of the happiness you bring.
   
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -97,5 +92,4 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg?style=for-the-badge&logo=FileZilla&logoColor=white)
-</details>
 </div>
