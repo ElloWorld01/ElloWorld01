@@ -45,9 +45,3 @@ I'm currently studying at [Université Côte d'Azur](https://univ-cotedazur.fr/)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobepremiere&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
-
-<details>
-<summary>📈 My GitHub stats</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elloworld01&layout=compact&count_private=true&theme=tokyonight" alt="Top Langs" width="380"/>
-<img src="https://github-readme-stats.vercel.app/api?username=elloworld01&count_private=true&show_icons=true&theme=tokyonight" alt="Github Stats" width="500"/>
-</details>
